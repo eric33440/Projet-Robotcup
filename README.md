@@ -5,6 +5,6 @@
 ## Membre groupe
 
 - Matthieu CASTETS: Déplacements 
-- Eric REBILLON : ../
+- Eric REBILLON
 - Yassine EL-MERNISSI: https://github.com/enoriel/Projet2018
 - Joris OFFOUGA: https://github.com/jorisoffouga/Project_Robocup
